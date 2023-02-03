@@ -1,0 +1,24 @@
+{
+  "name": "insomnia-plugin-sm3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "maojunxyz <maojun@linux.com>",
+  "homepage": "https://github.com/edersouza38/insomnia-plugin-sfsf-samlassertion",
+  "insomnia": {
+    "name": "sm3",
+    "displayName": "SM3 Plugin",
+    "description": "The SM3 plugin encodes basic strings.",
+    "publisher": {
+      "name": "maojunxyz",
+      "icon": "https://avatars.githubusercontent.com/u/28778042"
+
+    },
+    "unlisted": false
+  },
+  "dependencies": {
+    "gmsm-sm3js": "^0.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^0.1.7"
+  }
+}
