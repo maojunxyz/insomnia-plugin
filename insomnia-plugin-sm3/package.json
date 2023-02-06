@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "author": "maojunxyz <maojun@linux.com>",
-  "homepage": "https://github.com/edersouza38/insomnia-plugin-sfsf-samlassertion",
+  "homepage": "https://github.com/maojunxyz/insomnia-plugin/tree/main/insomnia-plugin-sm3",
   "insomnia": {
     "name": "sm3",
     "displayName": "SM3 Plugin",
@@ -11,7 +11,6 @@
     "publisher": {
       "name": "maojunxyz",
       "icon": "https://avatars.githubusercontent.com/u/28778042"
-
     },
     "unlisted": false
   },
